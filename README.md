@@ -11,4 +11,4 @@ run "RAG without guardrails.ipynb" file to perform rag operation on the stored e
 (step 3 only shows the basic version of the rag it does not contain guardrail operations)
 ## step 4(optional step): 
 here i have performed 2 guardrails, you can run anyone or both based on your requirement.
-## note: you can either skip step 3 or step 4.
+## note: you can either use step 3 or step 4 or both.
