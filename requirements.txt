@@ -1,0 +1,20 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-experimental
+langchain-huggingface
+
+# Embeddings and reranking
+sentence-transformers
+transformers
+torch
+huggingface-hub
+
+# Vector database
+chromadb
+
+# Keyword retrieval / hybrid search
+rank-bm25
+
